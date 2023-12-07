@@ -28,7 +28,8 @@ Input Variables:
 
 ## 🎯 Prediction Problem:
 
-The primary objective is to predict wine quality using the aforementioned input variables. Two approaches can be adopted:
+The primary objective is to predict wine quality using the aforementioned input variables. Two approaches can be adopted Regression  v.s Classification.
+In this project, we will be focusing on using regression to solve our problem:
 
 -  **Regression**: Predict the exact quality score ranging from 0 to 10.
 
